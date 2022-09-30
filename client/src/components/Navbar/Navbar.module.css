@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: rgb(150, 114, 114); */
+  margin-left: 2rem;
+}
+
+.navbar__login {
+  display: flex;
+  align-items: center;
+  /* background-color: rgb(43, 123, 177); */
+}
+
+.navbar__login > * {
+  margin-right: 2rem;
+}
