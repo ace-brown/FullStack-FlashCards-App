@@ -1,0 +1,6 @@
+.body_grid {
+  max-width: 100rem;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill);
+}
