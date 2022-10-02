@@ -1,0 +1,13 @@
+.SearchForm {
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+.SearchForm > * {
+  width: 100%;
+}
+
+.input {
+  height: 3rem;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+}

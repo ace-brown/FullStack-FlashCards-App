@@ -1,0 +1,8 @@
+.input__extra {
+  height: 7rem;
+}
+
+.button__modifier {
+  margin-top: 0.5rem;
+  background-color: var(--secondary-color);
+}

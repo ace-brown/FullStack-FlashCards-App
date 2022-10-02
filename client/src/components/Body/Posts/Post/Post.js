@@ -15,7 +15,7 @@ const Post = (props) => {
           <span className={`${classes.tag} ${classes.tag_teal}`}>
             Technology
           </span>
-          <h4>Why is the Tesla Cybertruck designed the way it is?</h4>
+          <h4> Sydney</h4>
           <p>An exploration into the truck's polarising design</p>
           <div className={classes.user}>
             <img

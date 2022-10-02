@@ -9,6 +9,9 @@ const Posts = (props) => {
       <Post>post 2</Post>
       <Post>post 3</Post>
       <Post>post 4</Post>
+      <Post>post 4</Post>
+      <Post>post 4</Post>
+      <Post>post 4</Post>
     </div>
   );
 };
